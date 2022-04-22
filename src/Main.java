@@ -19,7 +19,5 @@ public class Main {
         } catch (IllegalArgumentException i) {
             System.out.println(i.getMessage());
         }
-        System.out.println(Circle.cir_count);
-        System.out.println(Rectangle.rec_count);
     }
 }
